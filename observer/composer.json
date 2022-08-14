@@ -1,0 +1,16 @@
+{
+    "name": "patterns/observer",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Patterns\\Observer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Naqi Al-Musawi"
+        }
+    ],
+    "require": {}
+}

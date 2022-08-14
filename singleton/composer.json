@@ -1,0 +1,16 @@
+{
+    "name": "patterns/singleton",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Patterns\\Singleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Naqi Al-Musawi"
+        }
+    ],
+    "require": {}
+}

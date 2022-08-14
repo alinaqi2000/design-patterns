@@ -1,0 +1,5 @@
+Steps:
+    -receive user inputs for registration
+    -validate all inputs from facade validator
+    -store user data in file
+    -display all users

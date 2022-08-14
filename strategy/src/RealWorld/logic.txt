@@ -1,0 +1,7 @@
+Steps:
+    -create products with prices
+    -prompt products and select a products
+    -select product count
+    -ask again the products and count
+    -ask payment strategy
+    -complete order and save in the file

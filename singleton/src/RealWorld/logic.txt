@@ -1,0 +1,9 @@
+Steps:
+    -create and connect user and logger class to the singleton
+    -set half properties of the user
+    -set a log message
+    -create and connect another user and logger class to the singleton
+    -set other half properties for the user class
+    -set a log message
+    -check if logger has single instance of singleton
+    -compare user properties to check if both users have same singleton instance

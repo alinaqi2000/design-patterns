@@ -1,0 +1,12 @@
+Steps:
+    -attach email and logger class to observers
+    -create user 1
+    -email and log for user 1
+    -create user 2
+    -email and log for user 2
+    -detach email from observers
+    -create user 3
+    -only log for user 3
+    -attach email class to observers
+    -create user 4
+    -email and log for user 4
